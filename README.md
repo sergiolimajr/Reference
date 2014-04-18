@@ -5,7 +5,7 @@ Blog-Study
 
 
 * http://tutorials.tutsplus.com/
-* http://tympanus.net/
+* http://tympanus.net/codrops/
 * http://www.html5rocks.com/pt/
 * http://alistapart.com/
 * http://webdesignerwall.com/
