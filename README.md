@@ -25,6 +25,7 @@ Blog-Study
 * http://jscentral.org/
 * http://js.gd/
 * http://www.sitepoint.com/
+* http://creative-punch.net/
 
 ##Weekly news on the web
 
